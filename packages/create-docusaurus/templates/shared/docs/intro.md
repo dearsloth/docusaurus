@@ -2,46 +2,65 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 簡介（Overview）
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## 歡迎來到 ConChat
 
-## Getting Started
+**歡迎來到 ConChat一個用 AI 傾聽你、陪伴你的情緒聊天夥伴**
 
-Get started by **creating a new site**.
+在這個資訊爆炸、節奏快速的時代，我們習慣了對外「即時回應」，卻常常忘了停下來好好「聽聽自己」。ConChat 誕生的初衷，就是希望成為你生活中的一個溫柔存在——**當你孤單、低落、迷惘，甚至只是想找人聊聊時，ConChat 都會陪著你**。
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## ConChat 是什麼？
 
-### What you'll need
+ConChat 是一個結合 AI 對話與情緒陪伴的線上服務，透過輕量、溫暖的對話體驗，幫助你：
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+* 記錄每日的情緒與思緒
+  
+* 和 AI 夥伴進行舒壓式的談話
 
-## Generate a new site
+* 回顧過往的情緒軌跡，認識自己的內在狀態
+  
+我們不是專業心理諮商師，但我們希望成為一個**情緒喘息的安全空間**，幫你練習「誠實面對自己」。
 
-Generate a new Docusaurus site using the **classic template**.
+## 我們目前提供的功能（MVP 版本）
 
-The classic template will automatically be added to your project after you run the command:
+ConChat 仍在早期開發階段，目前開放的主要功能是：
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+**對話系統**：與 AI 進行匿名、安全的文字聊天。你可以在任何時刻打開 ConChat 傾訴煩惱、發問、記錄心情，或只是簡單說說今天的心事。
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+這是一個沒有壓力的空間，讓你練習誠實地和自己對話，也讓我們的 AI 學習成為一個更有溫度的陪伴者。
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+<br/>
 
-## Start your site
+🔧 更多功能（如情緒日記、情緒圖表、小工具等）正在開發中，未來將陸續釋出。
 
-Run the development server:
+如果你有任何想法或需求，也非常歡迎透過意見回饋告訴我們，一起把 ConChat 打造成屬於大家的情緒夥伴 💛
 
-```bash
-cd my-website
-npm run start
-```
+## 適合誰使用？
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+ConChat 是為所有想更認識自己、或正在經歷情緒壓力的你設計的。無論你是：
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+* 工作忙碌、缺乏傾訴對象的上班族
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+* 面對學業、人際感到焦慮的大學生
+
+* 正在情緒波動期中掙扎的人
+
+你都可以在 ConChat 找到片刻的理解與溫柔。
+
+
+## 為什麼現在還不是完美的？
+
+目前 ConChat 正處於 **MVP（最小可行產品）階段**，你所看到的功能與介面都還在持續測試與調整中。
+
+這代表：
+
+* 有些功能尚未完全實裝
+
+* 使用過程中可能會有 bug 或不順暢的地方
+
+* 我們非常期待你的意見與使用回饋 🙏
+
+我們相信，一個有溫度的產品，不只是團隊做出來的，而是跟**用戶一起長出來的**。歡迎你一起參與這段旅程，讓 ConChat 變得更好！
+
+如需進一步操作說明，請繼續閱讀下一章： [快速開始（Getting Started）]()
